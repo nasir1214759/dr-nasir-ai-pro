@@ -1,0 +1,9 @@
+streamlit
+huggingface_hub
+pypdf
+python-docx
+sentence-transformers
+faiss-cpu
+numpy
+requests
+beautifulsoup4
