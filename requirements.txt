@@ -1,12 +1,6 @@
-1  streamlit
-2  huggingface_hub
-3  pypdf
-4  python-docx
-5  sentence-transformers
-6  faiss-cpu
-7  numpy
-8  requests
-9  beautifulsoup4
-10 torchvision
-11 Pillow
-12 pandas
+streamlit
+huggingface_hub
+pypdf
+python-docx
+requests
+beautifulsoup4
